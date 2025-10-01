@@ -1,0 +1,17 @@
+# compiled sources
+**/dist
+**/.vite
+
+# dependencies
+**/node_modules
+
+# local env files
+.env*
+!.env.example
+!.env.test
+
+# docker
+**/volumes
+
+# misc
+.vscode/
